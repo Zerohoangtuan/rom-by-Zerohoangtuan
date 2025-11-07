@@ -1,1 +1,4 @@
-# rom-by-Zerohoangtuan
+# 📦 Link chia sẻ ROM
+
+- [Thư mục stock](https://cabin-florida-search-light.trycloudflare.com/stock/)
+- [Thư mục mod](https://cabin-florida-search-light.trycloudflare.com/mod/)
