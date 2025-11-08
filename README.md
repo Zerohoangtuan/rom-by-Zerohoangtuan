@@ -4,4 +4,5 @@
 - [Thư mục mod](https://indicators-address-butler-listing.trycloudflare.com/mod/)
   
 # Lưu ý:
-2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline
+- 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline
+- liên hệ qua [Zalo](http://zaloapp.com/qr/p/1hosz622j1nwf)
