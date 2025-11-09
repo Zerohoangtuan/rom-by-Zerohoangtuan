@@ -1,7 +1,7 @@
 # 📦 Link chia sẻ ROM
 
-- [Thư mục stock](https://indicators-address-butler-listing.trycloudflare.com/stock/)
-- [Thư mục mod](https://indicators-address-butler-listing.trycloudflare.com/mod/)
+- [kho tổng hợp ROM](https://real-rate-launched-facilities.trycloudflare.com/stock/)
+- [Kho ROM mod](https://real-rate-launched-facilities.trycloudflare.com/mod/)
   
 # Lưu ý:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ
