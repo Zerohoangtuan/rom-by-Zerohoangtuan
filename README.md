@@ -1,7 +1,7 @@
 # 📦 Link chia sẻ ROM
 
-- [kho tổng hợp ROM](https://lancaster-shown-incorporated-diane.trycloudflare.com/stock/)
-- [Kho ROM mod](https://lancaster-shown-incorporated-diane.trycloudflare.com/mod/)
+- [kho tổng hợp ROM](https://downtown-explained-balance-ipod.trycloudflare.com/stock/)
+- [Kho ROM mod](https://downtown-explained-balance-ipod.trycloudflare.com/mod/)
   
 # Lưu ý:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ
