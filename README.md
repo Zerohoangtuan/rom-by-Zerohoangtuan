@@ -1,7 +1,7 @@
 # 📦 Link chia sẻ ROM
 
-- [kho tổng hợp ROM](https://meanwhile-dad-promised-moves.trycloudflare.com/stock/)
-- [Kho ROM mod](https://meanwhile-dad-promised-moves.trycloudflare.com/mod/)
+- [kho tổng hợp ROM](https://beta-drink-targets-philosophy.trycloudflare.com/stock/)
+- [Kho ROM mod](https://beta-drink-targets-philosophy.trycloudflare.com/mod/)
   
 # Lưu ý:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ
