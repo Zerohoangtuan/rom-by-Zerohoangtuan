@@ -1,9 +1,9 @@
-# 📦 Link chia sẻ ROM/ROM sharing link
+# 📦 Link tổng hợp ROM / Rom collection link
 
 - [kho tổng hợp ROM](https://specialists-praise-periodic-remind.trycloudflare.com/stock/)
 - [Kho ROM mod](https://specialists-praise-periodic-remind.trycloudflare.com/mod/)
   
-# Lưu ý:
+# LƯU Ý / NOTE:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ  
   The two links may change daily. However, the server does not run 24/7 and may go offline at any time
 
