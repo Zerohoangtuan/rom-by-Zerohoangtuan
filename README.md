@@ -1,7 +1,7 @@
 # 📦 Link tổng hợp ROM / Rom collection link
 
-- [kho tổng hợp ROM](https://third-holder-break-direction.trycloudflare.com/stock/)
-- [Kho ROM mod](https://third-holder-break-direction.trycloudflare.com/mod/)
+- [kho tổng hợp ROM](https://away-rankings-fees-elegant.trycloudflare.com/stock/)
+- [Kho ROM mod](https://away-rankings-fees-elegant.trycloudflare.com/mod/)
   
 # LƯU Ý / NOTE:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ  
