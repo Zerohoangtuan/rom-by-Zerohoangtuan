@@ -2,6 +2,7 @@
 
 - [kho tổng hợp ROM](https://away-rankings-fees-elegant.trycloudflare.com/stock/)
 - [Kho ROM mod](https://away-rankings-fees-elegant.trycloudflare.com/mod/)
+- (2 link tạm thời dừng online vì lý do cá nhân)
   
 # LƯU Ý / NOTE:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ  
