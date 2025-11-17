@@ -6,7 +6,7 @@
   
 # LƯU Ý / NOTE:
 - 2 link có thể bị thay đổi theo ngày, tuy nhiên server không chạy 24/24 và có thể bị offline bất kỳ  
-  The two links may change daily. However, the server does not run 24/7 and may go offline at any time
+  The two links may change daily. However, the server does not run 24/24 and may go offline at any time
 
 - Thời gian offline khoảng 1h hơn và thời gian online lại khoảng 9h hoặc trễ hơn là 10h  
   Offline time is a little after 1 AM, and online time is around 9 AM or as late as 10 AM (Vietnam time)
